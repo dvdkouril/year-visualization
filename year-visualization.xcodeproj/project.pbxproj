@@ -13,6 +13,7 @@
 		D7CC67E81AF78BBC005551C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7CC67E71AF78BBC005551C5 /* Images.xcassets */; };
 		D7CC67EB1AF78BBC005551C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7CC67E91AF78BBC005551C5 /* LaunchScreen.xib */; };
 		D7CC67F71AF78BBC005551C5 /* year_visualizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7CC67F61AF78BBC005551C5 /* year_visualizationTests.swift */; };
+		D7CC68011AF78C14005551C5 /* visView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7CC68001AF78C14005551C5 /* visView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D7CC67F01AF78BBC005551C5 /* year-visualizationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "year-visualizationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7CC67F51AF78BBC005551C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7CC67F61AF78BBC005551C5 /* year_visualizationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = year_visualizationTests.swift; sourceTree = "<group>"; };
+		D7CC68001AF78C14005551C5 /* visView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = visView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				D7CC67E01AF78BBC005551C5 /* AppDelegate.swift */,
 				D7CC67E21AF78BBC005551C5 /* ViewController.swift */,
+				D7CC68001AF78C14005551C5 /* visView.swift */,
 				D7CC67E41AF78BBC005551C5 /* Main.storyboard */,
 				D7CC67E71AF78BBC005551C5 /* Images.xcassets */,
 				D7CC67E91AF78BBC005551C5 /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7CC67E31AF78BBC005551C5 /* ViewController.swift in Sources */,
+				D7CC68011AF78C14005551C5 /* visView.swift in Sources */,
 				D7CC67E11AF78BBC005551C5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
