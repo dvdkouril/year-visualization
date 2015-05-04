@@ -14,6 +14,7 @@
 		D7CC67EB1AF78BBC005551C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7CC67E91AF78BBC005551C5 /* LaunchScreen.xib */; };
 		D7CC67F71AF78BBC005551C5 /* year_visualizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7CC67F61AF78BBC005551C5 /* year_visualizationTests.swift */; };
 		D7CC68011AF78C14005551C5 /* visView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7CC68001AF78C14005551C5 /* visView.swift */; };
+		D7CC68031AF78D98005551C5 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D7CC68021AF78D98005551C5 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		D7CC67F51AF78BBC005551C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7CC67F61AF78BBC005551C5 /* year_visualizationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = year_visualizationTests.swift; sourceTree = "<group>"; };
 		D7CC68001AF78C14005551C5 /* visView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = visView.swift; sourceTree = "<group>"; };
+		D7CC68021AF78D98005551C5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				D7CC67E21AF78BBC005551C5 /* ViewController.swift */,
 				D7CC68001AF78C14005551C5 /* visView.swift */,
 				D7CC67E41AF78BBC005551C5 /* Main.storyboard */,
+				D7CC68021AF78D98005551C5 /* README.md */,
 				D7CC67E71AF78BBC005551C5 /* Images.xcassets */,
 				D7CC67E91AF78BBC005551C5 /* LaunchScreen.xib */,
 				D7CC67DE1AF78BBC005551C5 /* Supporting Files */,
@@ -217,6 +220,7 @@
 			files = (
 				D7CC67E31AF78BBC005551C5 /* ViewController.swift in Sources */,
 				D7CC68011AF78C14005551C5 /* visView.swift in Sources */,
+				D7CC68031AF78D98005551C5 /* README.md in Sources */,
 				D7CC67E11AF78BBC005551C5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
